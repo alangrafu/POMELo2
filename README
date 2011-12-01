@@ -1,0 +1,14 @@
+# Introduction
+POMELo2 is a PML (Proof Markup Language) Editor focused in three main goals:
+
+- First, allow users to visualize provenance in a graphical way, that is also suitable to be shared with others.
+- Second, allow users to modify existing PML documents using only their browsers. 
+- Third, validate PML documents using PML Validation service.
+
+POMELo2 is based on visualRDF[1] and it doesn't share any code with the original POMELo[2]. You can play with a demo 
+available at [3].
+
+
+[1] http://github.com/alangrafu/visualRDF
+[2] http://graves.cl/pml/pomelo
+[3] http://graves.cl/pml/pomelo2
